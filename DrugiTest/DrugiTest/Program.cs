@@ -10,6 +10,8 @@ namespace DrugiTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello git from console");
+            Console.ReadLine();
         }
     }
 }
